@@ -26,13 +26,6 @@ USDC·DAI 스테이블코인의 **디페깅 조기경보 모델** — BAF 26-1 �
 
 ---
 
-## 🛠️ Other Work
-> 비공개 저장소
-
-- **통통랜드 QR 주문 시스템** — 매장 테이블 QR 주문 · 주방 실시간 상태 동기화 웹앱 · `React` `Firestore`
-- **개인 포털** — 일정·메모·대시보드 통합 개인 포털 · `Next.js` `Supabase` `Vercel`
-
----
 
 ## 🧰 Tech Stack
 
