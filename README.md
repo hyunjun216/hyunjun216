@@ -12,6 +12,21 @@
 
 - 동국대학교 통계학과 · AI소프트웨어(SWAI) 연계전공 `2022.03 ~`
 
+## Projects
+
+**데이터 분석**
+- [동네 돌봄 지도](https://github.com/hyunjun216/2026-bigcontest-care-map) · 통신·인구·복지시설 데이터로 고립 위험 동네를 찾는 AI 에이전트 `2026.09 ~ 10`
+- [지방소멸대응기금 AI 코파일럿](https://github.com/hyunjun216/2026-ict-local-fund-agent) · 기금 성과를 검증하고 투자계획서 작성을 돕는 AI 에이전트 `2026.07 ~ 08`
+- [뉴스 속 가격, 믿어도 될까?](https://github.com/hyunjun216/2026-science-contest-news-price) · 뉴스 속 농수산물 가격을 공공 데이터와 대조한 신뢰성 연구 `2026.06 ~ 10`
+- [하리노트](https://github.com/hyunjun216/2026-tourism-data-harinote) · 강원 관광지의 그날 안전 점수와 대체 코스를 알려 주는 서비스 `2026.05 ~ 09`
+- [스테이블코인 디페깅 조기경보](https://github.com/hyunjun216/stablecoin-depegging-early-warning) · USDC·DAI 가격 이탈을 하루 전에 예측하는 경보 모델 `2026.03 ~ 08`
+
+**서비스 개발**
+- [온사이드 아웃](https://github.com/hyunjun216/2026-oss-onside-out) · 마음 날씨에 맞는 노래를 건네는 청년 감정 음악 앱 `2026.09 ~`
+- [BAF 학회 홈페이지](https://dgubaf.com) · 관리자 페이지에서 공지·자료를 직접 올리는 학회 홈페이지 `2026.09 ~`
+- [가락몰 실내 길찾기](https://github.com/hyunjun216/2026-garak-indoor-navigation) · QR로 위치를 잡고 원하는 품목 매장까지 안내하는 실내 내비게이션 `2026.06 ~ 07`
+- [통통랜드 QR 주문](https://github.com/hyunjun216/2026-festival-qr-order) · 축제 주점의 주문, 입금 확인, 주방 전달을 한 번에 처리하는 웹서비스 `2026.05`
+
 ## Tech Stack
 
 <div align="center">
@@ -31,21 +46,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
-
-## Projects
-
-**데이터 분석**
-- [동네 돌봄 지도](https://github.com/hyunjun216/2026-bigcontest-care-map) · 통신·인구·복지시설 데이터로 고립 위험 동네를 찾는 AI 에이전트 `2026.09 ~ 10`
-- [지방소멸대응기금 AI 코파일럿](https://github.com/hyunjun216/2026-ict-local-fund-agent) · 기금 성과를 검증하고 투자계획서 작성을 돕는 AI 에이전트 `2026.07 ~ 08`
-- [뉴스 속 가격, 믿어도 될까?](https://github.com/hyunjun216/2026-science-contest-news-price) · 뉴스 속 농수산물 가격을 공공 데이터와 대조한 신뢰성 연구 `2026.06 ~ 10`
-- [하리노트](https://github.com/hyunjun216/2026-tourism-data-harinote) · 강원 관광지의 그날 안전 점수와 대체 코스를 알려 주는 서비스 `2026.05 ~ 09`
-- [스테이블코인 디페깅 조기경보](https://github.com/hyunjun216/stablecoin-depegging-early-warning) · USDC·DAI 가격 이탈을 하루 전에 예측하는 경보 모델 `2026.03 ~ 08`
-
-**서비스 개발**
-- [온사이드 아웃](https://github.com/hyunjun216/2026-oss-onside-out) · 마음 날씨에 맞는 노래를 건네는 청년 감정 음악 앱 `2026.09 ~`
-- [BAF 학회 홈페이지](https://dgubaf.com) · 관리자 페이지에서 공지·자료를 직접 올리는 학회 홈페이지 `2026.09 ~`
-- [가락몰 실내 길찾기](https://github.com/hyunjun216/2026-garak-indoor-navigation) · QR로 위치를 잡고 원하는 품목 매장까지 안내하는 실내 내비게이션 `2026.06 ~ 07`
-- [통통랜드 QR 주문](https://github.com/hyunjun216/2026-festival-qr-order) · 축제 주점의 주문, 입금 확인, 주방 전달을 한 번에 처리하는 웹서비스 `2026.05`
 
 ## Awards
 
