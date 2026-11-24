@@ -1,6 +1,10 @@
+<div align="center">
+
 # 박현준 (Hyunjun Park)
 
 데이터에서 의미 있는 특징을 찾고, 그 결과를 실제로 쓰이는 서비스로 연결합니다.
+
+</div>
 
 ---
 
@@ -9,6 +13,8 @@
 - 동국대학교 통계학과 · AI소프트웨어(SWAI) 연계전공 `2022.03 ~`
 
 ## Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -23,6 +29,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 ## Projects
 
